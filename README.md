@@ -1,25 +1,24 @@
-# QuickBuy – WordPress E-Commerce Website  
+# QuickBuy – WordPress E-Commerce Website
 
-QuickBuy is a fully functional **e-commerce website** built with **WordPress & WooCommerce**.  
-It includes a product catalog, cart, checkout, payment gateway integration, and essential plugins for SEO, caching, and security.  
+QuickBuy is a simple **e-commerce website** built with **WordPress & WooCommerce**.  
+It includes a product catalog, cart, checkout, and sandbox payment integration.  
 
-## ✨ Features
-- Responsive design with Elementor customization  
-- Product catalog, cart, checkout, and order tracking  
-- Payment gateway integration (sandbox/test mode)  
-- Inventory management and discount coupons  
-- SEO, caching, and security optimizations  
+## Features
+- Product catalog with images, price, and description  
+- Cart and checkout flow  
+- Sandbox payment gateway setup (PayPal / Cash on Delivery)  
+- Basic order management dashboard  
+- Coupons and discounts (WooCommerce default)  
+- Responsive free theme  
 
-## 🛠️ Tech Stack
-- WordPress, WooCommerce  
-- PHP, MySQL  
-- Elementor, Yoast SEO, WP Super Cache, Wordfence  
+## Tech Stack
+- WordPress  
+- WooCommerce plugin  
+- Free theme (Storefront/Astra)  
+- Plugins: Yoast SEO, WP Super Cache, Wordfence  
 
-## 📸 Screenshots
-*(Coming soon)*  
+## Screenshots
+*(To be added – homepage, product page, checkout)*
 
-## 🚀 Deployment
-Deployed on WordPress hosting.  
-
----
-📂 This repo will be updated with **theme customizations, screenshots, and setup instructions** soon.  
+## Deployment
+Built on WordPress; hosted locally / on shared hosting.  
